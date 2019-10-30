@@ -50,7 +50,7 @@ main {
   flex: 3;
   padding: 20px 40px;
 }
-#title {
+#main-title {
   opacity: 0;
   animation: slidein 1s forwards;
 }
